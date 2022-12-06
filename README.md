@@ -1,1 +1,1 @@
-# Trial
+Git session III project
